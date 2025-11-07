@@ -21,7 +21,7 @@ CreditAnalysis is a sophisticated loan approval prediction system that leverages
 
 The project implements multiple classification algorithms to ensure high accuracy and reliability in credit risk assessment.
 
-![Credit Analysis Workflow](https://via.placeholder.com/800x400?text=Credit+Analysis+Workflow)
+![Credit Analysis Workflow](https://thumbs.dreamstime.com/b/loan-approved-stamp-grunge-design-dust-scratches-effects-can-be-easily-removed-clean-crisp-look-color-easily-changed-83596470.jpg)
 
 ## ✨ Features
 
